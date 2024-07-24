@@ -1,0 +1,59 @@
+- summary: |
+    Проверка регистрации пользователя
+  status: pass
+
+- summary: |
+    Проверка регистрации пользователя через GitHub
+  status: pass
+
+- summary: |
+    Проверка регистрации пользователя через Discord
+  status: pass 
+
+- summary: |
+    Проверка входа пользователя с существующими логином и паролем
+  status: pass
+
+- summary: |
+    Проверка входа пользователя через GitHub
+  status: pass
+
+- summary: |
+    Проверка входа пользователя через Discord
+  status: pass
+
+- summary: |
+    Проверка входа пользователя с несуществующими логином и паролем
+  status: pass
+
+- summary: |
+    Проверка выхода пользователя из личного кабинета
+  status: pass  
+
+- summary: |
+    Проверка создания игры
+  status: pass
+
+- summary: |
+    Проверка входа в созданную другим пользователем игру
+  status: pass  
+
+- summary: |
+    Проверка перехода между вкладками "Lobby, tournaments, history" в личном кабинете
+  status: pass 
+
+- summary: |
+    Проверка входа в игру в качестве зрителя
+  status: pass
+
+- summary: |
+    Проверка переключения вкладок в "LEADERBOARD"
+  status: pass  
+
+- summary: |
+    Проверка отправления сообщений в чат
+  status: pass  
+
+- summary: |
+    Проверка открытия карточки пользователя
+  status: pass
