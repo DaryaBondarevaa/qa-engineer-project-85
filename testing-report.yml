@@ -3,6 +3,10 @@
   status: pass
 
 - summary: |
+    Проверка изменения личных данных пользователя
+  status: fail
+
+- summary: |
     Проверка регистрации пользователя через GitHub
   status: pass
 
