@@ -79,7 +79,7 @@
   prerequisites: |
     Открыта страница "Войти"
   test-data: |
-    Email = ivanov@mail.ru Password = Ivanov12345
+    no-data
   steps:
     - Вводим Email
     - Вводим Password
