@@ -6,8 +6,7 @@
   prerequisites: |
     Открыта страница регистрации
   test-data: |
-    Тестовые данные
-    Nickname = Ivan Email = ivanov@mail.ru Password = Ivanov12345 Password Confirmation = Ivanov12345
+    no-data
   steps:
     - Вводим Nickname
     - Вводим Email
