@@ -3,65 +3,77 @@
   status: pass
 
 - summary: |
-    Проверка изменения личных данных пользователя
+    Проверка изменения личного фото пользователя
   status: fail
 
 - summary: |
-    Проверка регистрации пользователя через GitHub
+    Проверка изменения никнейма пользователя
   status: pass
 
 - summary: |
-    Проверка регистрации пользователя через Discord
-  status: pass 
+    Проверка авторизации пользователя через GitHub
+   status: pass
 
 - summary: |
-    Проверка входа пользователя с существующими логином и паролем
-  status: pass
+    Проверка авторизации пользователя через Discord
+   status: pass
 
 - summary: |
-    Проверка входа пользователя через GitHub
-  status: pass
+    Проверка успешной авторизации
+   status: pass
 
 - summary: |
-    Проверка входа пользователя через Discord
-  status: pass
+    Проверка авторизации незарегистрированного пользователя
+   status: pass
 
 - summary: |
-    Проверка входа пользователя с несуществующими логином и паролем
-  status: pass
-
-- summary: |
-    Проверка выхода пользователя из личного кабинета
-  status: pass  
+    Проверка логаута пользователя
+   status: pass
 
 - summary: |
     Проверка создания игры
-  status: pass
+   status: pass
 
 - summary: |
     Проверка входа в созданную другим пользователем игру
-  status: pass  
+   status: pass
 
 - summary: |
     Проверка перехода между вкладками "Lobby, tournaments, history" в личном кабинете
-  status: pass 
+   status: pass
 
 - summary: |
     Проверка входа в игру в качестве зрителя
-  status: pass
+   status: pass
 
 - summary: |
     Проверка переключения вкладок в "LEADERBOARD"
-  status: pass  
+   status: pass
 
 - summary: |
-    Проверка отправления сообщений в чат
-  status: pass  
+    Проверка отправления сообщений в чат на мейне
+   status: pass
+
+- summary: |
+    Проверка отправления сообщений в чат в игре
+   status: pass
 
 - summary: |
     Проверка открытия карточки пользователя
-  status: pass
+   status: pass
 
 - summary: |
     Проверка адаптивности сайта к мобильной версии
   status: fail
+
+- summary: |
+    Проверка создания новой игры с ботом
+   status: pass
+
+- summary: |
+    Проверка создания игры без регистрации пользователя в системе
+   status: pass
+
+- summary: |
+    Проверка возможности победы пользователя в игре 
+   status: pass
