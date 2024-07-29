@@ -2,7 +2,7 @@
 - summary: |
     Проверка регистрации пользователя
   status: pass
-
+  
 - summary: |
     Проверка изменения личного фото пользователя
   status: fail
@@ -13,55 +13,55 @@
 
 - summary: |
     Проверка авторизации пользователя через GitHub
-   status: pass
+  status: pass
 
 - summary: |
     Проверка авторизации пользователя через Discord
-   status: pass
+  status: pass
 
 - summary: |
     Проверка успешной авторизации
-   status: pass
+  status: pass
 
 - summary: |
     Проверка авторизации незарегистрированного пользователя
-   status: pass
+  status: pass
 
 - summary: |
     Проверка логаута пользователя
-   status: pass
+  status: pass
 
 - summary: |
     Проверка создания игры
-   status: pass
+  status: pass
 
 - summary: |
     Проверка входа в созданную другим пользователем игру
-   status: pass
+  status: pass
 
 - summary: |
     Проверка перехода между вкладками "Lobby, tournaments, history" в личном кабинете
-   status: pass
+  status: pass
 
 - summary: |
     Проверка входа в игру в качестве зрителя
-   status: pass
+  status: pass
 
 - summary: |
     Проверка переключения вкладок в "LEADERBOARD"
-   status: pass
+  status: pass
 
 - summary: |
     Проверка отправления сообщений в чат на мейне
-   status: pass
+  status: pass
 
 - summary: |
     Проверка отправления сообщений в чат в игре
-   status: pass
+  status: pass
 
 - summary: |
     Проверка открытия карточки пользователя
-   status: pass
+  status: pass
 
 - summary: |
     Проверка адаптивности сайта к мобильной версии
@@ -69,12 +69,12 @@
 
 - summary: |
     Проверка создания новой игры с ботом
-   status: pass
+  status: pass
 
 - summary: |
     Проверка создания игры без регистрации пользователя в системе
-   status: pass
+  status: pass
 
 - summary: |
     Проверка возможности победы пользователя в игре 
-   status: pass
+  status: pass
